@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Copy of a letter, with its answer, concerning a contest at VVorcester between a minister and a Quaker.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80499</idno>
+            <idno type="STC">Wing C6167</idno>
+            <idno type="STC">Thomason E875_5</idno>
+            <idno type="STC">ESTC R206567</idno>
+            <idno type="EEBO-CITATION">99865692</idno>
+            <idno type="PROQUEST">99865692</idno>
+            <idno type="VID">168375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168375)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 132:E875[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Copy of a letter, with its answer, concerning a contest at VVorcester between a minister and a Quaker.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Minister = Joseph Baker. Quaker = Edward Bourne.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Dated at end: Febr. 20, 1655.</note>
+                  <note>Annotation on Thomason copy: "Aprill 15 1656".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baker, Joseph, 1623 or 4-1668 --  Early works to 1800.</term>
+               <term>Bourne, Edward, d. 1708 --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:168375:1" rendition="simple:additions"/>
+            <head>A Copy of a Letter, with its Anſwer, concerning a conteſt at VVorceſter between a Miniſter and a Quaker.</head>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>I AM informed of a great and late conteſt at <hi>Wor<g ref="char:EOLhyphen"/>ceſter,</hi> in publike, between a Doctor of Phyſick, and a Miniſter, wherein the Miniſter non-pluſt his oppoſite, and ſubſtantially proved his Calling and Miniſtry true and Divine; but asking the Re<g ref="char:EOLhyphen"/>porters how, or by what Scriptures or Arguments he did ſo prove it, they cannot inform me; where<g ref="char:EOLhyphen"/>fore let me intreat, to hear from you the full truth, both of manner and matter, how he proved the ſame, <hi>&amp;c.</hi> for indeed, both with us, and in many o<g ref="char:EOLhyphen"/>ther places in this Nation, our beſt and ableſt Mi<g ref="char:EOLhyphen"/>niſters, are at ſo great a loſs, and ſo hard put to it, in this, &amp; ſome other reſpects (wanting that pow<g ref="char:EOLhyphen"/>er and authority to back, and make good their Ar<g ref="char:EOLhyphen"/>guments, which formerly they had) that I cannot but much pitty them, and fear what may become of them at laſt: Thus deſiring your ſpeedy return, with my love to you, and your Bed-fellow, preſen<g ref="char:EOLhyphen"/>ted, I reſt.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Feb.</hi> 25. 1655.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Anſwer followeth.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ALthough leſs able to anſwer your deſire (in yours of the 25. Inſtant) then others who
+<pb n="2" facs="tcp:168375:2"/>were preſent at the conteſt; yet what I know there<g ref="char:EOLhyphen"/>of upon exacteſt inquiry, I ſhall declare unto you, which in effect is as followeth.</p>
+            <div type="account_of_contest">
+               <p>
+                  <seg rend="decorInit">T</seg>HIS Conteſt was in Saint <hi>Swithins</hi> Church, on Friday the 22. of <hi>Feb.</hi> be<g ref="char:EOLhyphen"/>tween one <hi>Edward Born</hi> a Phyſician (termed a <hi>Quaker</hi>) and one Mr. <hi>Baker,</hi> a Miniſter in <hi>Worceſter,</hi> where the ſaid <hi>Edward Born</hi> charged the ſaid Mr. <hi>Baker</hi> to be no true Miniſter of Chriſt, his reaſon was, <hi>becauſe he did not abide in the Doctrrine of Chriſt;</hi> to which a by-ſtander an<g ref="char:EOLhyphen"/>ſwered, Every Beleever ought to abide in Chriſts Doctrine, therefore that was no ſpecial Mark to denote a true Miniſter by; to which might have been replyed, It being the duty of every Beleever, its the Duty of every Miniſter much more: But I conceive <hi>Edward B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rns</hi> Reaſon deficient more upon another ground (to wit) becauſe the Doctrine or Goſpel of Chriſt is altogether as much controver<g ref="char:EOLhyphen"/>ted for in the world, what it is, as the Miniſters of Chriſt, whom or where it is; and therefore to ſeek to prove one doubtfull thing by another, as doubtfull, is no better then beating the Air.</p>
+               <p>But at <hi>Edward Borns</hi> departure, there was a loud and very uncivill<note n="*" place="margin">he that hack'd cloth beyond Juſtice and honeſty, ſtrain'd zeal beyond wiſdom and modeſty: <hi>Prov.</hi> 13.16.</note> clapping of hands, and hiſſing, by ſome then preſent, of rude breeding and beha<g ref="char:EOLhyphen"/>viour; after which Mr. <hi>Baker</hi> taking the Pulpit, un<g ref="char:EOLhyphen"/>dertook to prove the truth of his own Miniſtry &amp;<note n="†" place="margin">Which if he could do, he would do al at once; for then he ought to be heard as Chriſt or God him<g ref="char:EOLhyphen"/>ſelf. <hi>Luk.</hi> 10.16</note> Divine Calling to preach the Goſpel; for which purpoſe he cited <hi>Matt.</hi> 28.18, 19, 20. where Chriſt telling his Apoſtles that all Power was given to him both in Heaven and Earth, gave them
+<pb n="3" facs="tcp:168375:2"/>Commiſſion to preach the Goſpel in all Nations, promiſing to be with them alway, even to the end of the world; where he reaſoned to this effect.</p>
+               <p>This promiſe here is not to be confined to theſe his eleven Apoſtles, who lived not long after, but is to be extended to their ſucceſſors, who from age to age were to continue on earth to the end of the world; and he being ordained ſubordinately from theſe Apoſtles, and by that Authority there given to them, Power and Authority was directed ſuc<g ref="char:EOLhyphen"/>ceſſively from hand to hand to him, whereby he was made, and doth ſtand a true Miniſter of the Goſpel of Chriſt; and this he offered to maintain for truth againſt all that ſhould contradict, or would oppoſe the ſame: But this our confident yong man might have conſidered:</p>
+               <p n="1">1. That, <hi>to the end of the world</hi> there, may in pro<g ref="char:EOLhyphen"/>bability be underſtood, <hi>to the uttermoſt part of the earth,</hi> as in <hi>Acts</hi> 8. where the extent hath reference toplace, not to time.</p>
+               <p n="2">2. But admit this Promiſe of Chriſt, <hi>his being with his true Miniſters to the end of the world,</hi> be abſo<g ref="char:EOLhyphen"/>ſolute, (as he expounded it) yet, how can this di<g ref="char:EOLhyphen"/>rectly, or by any good conſequence, prove M. <hi>Bakers</hi> Miniſtry true, or to be derived from theſe Apo<g ref="char:EOLhyphen"/>ſtles, any more then it proves the <hi>Pope,</hi> and all his <hi>Maſs-Prieſts Miniſtry</hi> to be true, and derived from them.</p>
+               <p>Obj. <hi>But Mr.</hi> Baker <hi>moreover alledgeth a Seal which he had to his Miniſtry, proving the truth thereof, mean<g ref="char:EOLhyphen"/>ing men convicted by him to beleeve and imbrace his Doctrine, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Had not the <hi>Arians</hi> this Seal, when their
+<pb n="4" facs="tcp:168375:3"/>Doctrine was ſo generally received throughout Chriſtendom, as it cauſed an ancient Father to ſay, <hi>that the whole world was become an Arrian:</hi> And have not the <hi>Anabaptiſts,</hi> the <hi>Quakers,</hi> and many other in our times, (eſteemed by Mr. <hi>Baker</hi> Hereticks, Schiſmaticks, or at leaſt deceivers) who have this Seal as much, and more then Mr. <hi>Baker;</hi> nay <hi>Maho<g ref="char:EOLhyphen"/>met</hi> himſelf, upon this account, will much outvie M. <hi>Baker,</hi> and may be proved a true Prophet, and to be ſent by the moſt High God.</p>
+               <p>But if it be well conſidered, it will appear that the aforeſaid promiſe of Chriſt, recorded in <hi>Mat.</hi> 28. is Conditional; and therefore cannot ſerve for that purpoſe for which it was alledged, the Text bearing this Reading, and ſenſe, viz. Going there<g ref="char:EOLhyphen"/>fore, diſciplize (or make Diſciples) all (or in all) Nations<note n="†" place="margin">here is not meant the bap<g ref="char:EOLhyphen"/>tiſm with Wa<g ref="char:EOLhyphen"/>ter, as is gene<g ref="char:EOLhyphen"/>rally held by ſuch as would be accounted true Miniſters, and ſent of God.</note> baptizing them into the Name of the Father, and of the Son, and of the holy Ghoſt; tea<g ref="char:EOLhyphen"/>ching them (to wit, the baptized Diſciples (to ob<g ref="char:EOLhyphen"/>ſerve all things (without adding, omitting, or di<g ref="char:EOLhyphen"/>miniſhing any thing) whatſoever I have comman<g ref="char:EOLhyphen"/>ded you; and lo, to wit, in your ſo doing) I am with you alway, even to the end of the world.</p>
+               <p>Now there is nothing more evident in Scripture then this, viz. That Chriſt taught, yea and ſtraight<g ref="char:EOLhyphen"/>ly charged and commanded theſe his eleven Apo<g ref="char:EOLhyphen"/>ſtles, that they ſhould not go out in the exerciſe of that their Commiſſion, or high Miniſterial Func<g ref="char:EOLhyphen"/>tion of preaching the Goſpel, until they were in<g ref="char:EOLhyphen"/>dued with power from on high, by the coming down of the Holy Ghoſt upon them, <hi>Luke</hi> 24.29. <hi>Acts</hi> 1.4, 5.8. which was fulfilled within few days
+<pb n="5" facs="tcp:168375:3"/>after, <hi>Act.</hi> 2.3, 4, whereby they were inabled not only to atteſt the truth and Divine Authority of that their Miniſtry and Doctrine, <hi>Mark</hi> 16.29. <hi>Acts</hi> 5.12.15, 16. <hi>Heb.</hi> 2.4. but were alſo made a<g ref="char:EOLhyphen"/>ble Miniſters of the Spirit to beleevers, by laying their hands on them, <hi>Acts</hi> 8.15, 16, 17. <hi>Acts</hi> 19.1, 2.6. compared with <hi>Eph.</hi> 1.13. 2 <hi>Cor.</hi> 3.6. <hi>Acts</hi> 2.38, 39. 2 <hi>Tim.</hi> 1.6. Hence therefore may be reaſo<g ref="char:EOLhyphen"/>ned.</p>
+               <p>If Mr. <hi>Baker</hi> will derive the Authority of his Mi<g ref="char:EOLhyphen"/>niſtry ſubordinately from theſe eleven Apoſtles to himſelf (as aforeſaid) he muſt then alſo in like manner derive the force and virtue of this<note n="*" place="margin">here our new Preachers and Divines, of what kind, ſize or ſort ſoever, may take no<g ref="char:EOLhyphen"/>tice of their running alſo before they be ſent; the <hi>Ana<g ref="char:EOLhyphen"/>baptiſt</hi> in ſpeci<g ref="char:EOLhyphen"/>all may ſee his great Error, in taking com<g ref="char:EOLhyphen"/>miſtion to teach and bap<g ref="char:EOLhyphen"/>tiſe from this Text (in <hi>Matt.</hi> 28.) which gives no Au<g ref="char:EOLhyphen"/>thority at all to any, it being only a recitall of an Authori<g ref="char:EOLhyphen"/>ty given and exerciſed long before the wri<g ref="char:EOLhyphen"/>ting thereof, which was not the more for its being writ<g ref="char:EOLhyphen"/>ten, nor had it been the leſs if it had never been written.</note> pro<g ref="char:EOLhyphen"/>hibition from them alſo to himſelf; how he can ra<g ref="char:EOLhyphen"/>tionally avoid this, I cannot imagine, becauſe no greater Authority can poſſibly be derived from them, then what they themſelves had from Chriſt; but they themſelves bad not from Chriſt Autho<g ref="char:EOLhyphen"/>rity to exerciſe that <hi>Miniſterial Function</hi> of preach<g ref="char:EOLhyphen"/>ing the Goſpel to the world, until they themſelves were indued with Power from on High, as afore<g ref="char:EOLhyphen"/>ſaid: <hi>Therefore,</hi> &amp;c.</p>
+               <p>For what they had not themſelves, cannot be de<g ref="char:EOLhyphen"/>rived from them, by, or to Mr. <hi>Baker,</hi> or any man elſe.</p>
+               <p>Unto all which Mr. <hi>Baker</hi> himſelf contributes by the next Scripture, cited by him, (to ſecond his former, to prove the continuance of a true MINISTRY upon Earth) namely, <hi>Epheſians</hi> 4.8.11. <hi>&amp;c.</hi> which Mr. <hi>FRANCIS</hi> then preſent out of the ſame PULPET had likewiſe done not long be<g ref="char:EOLhyphen"/>fore,
+<pb n="6" facs="tcp:168375:4"/>before, <hi>viz.</hi> cited the ſame Text in the ſame ſenſe, to prove the ſame thing, whereby it is granted (implicitly at leaſt) by both theſe,</p>
+               <p n="1">1. That a gifted Miniſtry is the true Miniſtry of Chriſt.</p>
+               <p n="2">2. That the true Miniſters of Chriſt conſiſts of Apoſtles, Prophets, Evangeliſts, Paſtors, and Tea<g ref="char:EOLhyphen"/>chers by gift from above. And</p>
+               <p n="3">3. That ſuch are ſucceſſively to continue in the Church of Chriſt, for the perfecting of the Saints for the <hi>ſucceſsive</hi> work of the Miniſtry, for the e<g ref="char:EOLhyphen"/>difying of the body of Chriſt, conſiſting alſo of gifted Beleevers, <hi>Mark</hi> 16, 17, 18. 1 <hi>Cor.</hi> 12.7.12, 13. <hi>Rom.</hi> 12.4, 5. <hi>Eph.</hi> 2.22, 23. till they all come into the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the meaſure of the ſtature, or age, of the fulneſs of Chriſt.</p>
+               <p>And now Sir, you may plainly ſee no miſcon<g ref="char:EOLhyphen"/>ſtruction here put upon theſe two Gent. in their making uſe of this Text, to prove the continuance of a true Miniſtry upon earth; for where it is ſaid in <hi>ver.</hi> the 11. that he gave ſome <hi>Apoſtles,</hi> and ſome <hi>Prophets,</hi> and ſome <hi>Evangeliſts,</hi> and ſome <hi>Paſtors</hi> and <hi>Teachers,</hi> the ſame is not to be underſtood, that he gave down ſuch men, but that after his aſcenſion he gave ſuch gifts to men, as in <hi>ver.</hi> 8. whereby they were qualified and inabled from on high for the aforeſaid ſeverall Offices and Imployments, and that ſuch were to continue ſucceſſively in the Church of Chriſt.</p>
+               <p>In this ſenſe was this Scripture cited by them both, or elſe it was brought by them both to no
+<pb n="7" facs="tcp:168375:4"/>ſenſe: But haply they may object and ſay,</p>
+               <p>
+                  <hi>Obj.</hi> That they and the like Orthodox Miniſters are the true, or elſ there are none true in the world, for there are none ſuch, or ſo qualified, as this and other Scriptures do ſet forth true Miniſters, at firſt, to be.</p>
+               <p>
+                  <hi>An.</hi> 1. The world is wide and large, and much un<g ref="char:EOLhyphen"/>known to us, ſuch thererefore may be in the world though not known to us.</p>
+               <p n="2">2. Whether there be any ſuch or not, or where<g ref="char:EOLhyphen"/>ſoever the true Miniſtry is, yet theſe are none, even by their own ſenſe given of this Text, and epxeri<g ref="char:EOLhyphen"/>ence is ſufficiently had of the deficiencie of the beft and ableſt of thoſe called Orthodox, in proving themſelves to be Divine, and ſent of God.</p>
+               <p>And now having given you the ſubſtance of what upon my beſt intelligence I have learnt, and what is material worthy your notice, I ſhall at preſent forbear to trouble you any further, ſave only to ac<g ref="char:EOLhyphen"/>knowledge my ſelf to be,</p>
+            </div>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Febr.</hi> 20, 1655.</date>
+               </dateline>
+               <salute>Noble Sir,</salute> 
+               <signed>
+                  <hi>Your</hi> Servant <hi>much Obliged for mani<g ref="char:EOLhyphen"/>fold</hi> Favours.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
